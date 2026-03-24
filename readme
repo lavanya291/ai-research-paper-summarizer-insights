@@ -1,27 +1,30 @@
+ 🧠 AI Research Paper Summarizer & Insight Extraction
+
+✨ About This Project
+Reading research papers can be overwhelming — long texts, complex ideas, and too much information to process quickly.  
+
+This project aims to simplify that experience by building an **AI-powered research assistant** that can automatically:
+- Summarize research papers  
+- Extract meaningful insights  
+- Help users understand key ideas faster  
+
+It combines modern NLP techniques with intelligent retrieval systems to make academic reading more efficient and accessible.
+
+---
+
+🚀 What Makes This Project Special?
+Instead of just summarizing text, this system goes a step further:
+
+🔍 Understands context using advanced AI models  
+📄 Generates concise and meaningful summaries  
+🧠 Extracts key insights, not just sentences  
+🔗 Connects information using a knowledge graph  
+⚡ Uses Retrieval-Augmented Generation (RAG) for better accuracy  
+
+---
+
+## 🏗️ How It Works (Simple Flow)
+Research Papers → Processing → Embeddings → Vector Search → AI Model → Insights & Summary
 
 
-create a dashboard through which we can query our RAG and Knowledge graph 
 
-main.py : main file of our project
-1. add RAG into it 
-
-2. Knowledge graph 
-    a. it contains a dropdown through which we will select domain.     Done 
-    b. total paper, total author, total method                         Done
-    c. showcase retrived data into table format                        Done 
-    d. export retrived data into excel file                            Done
-    e. knowledge graph on the screen                                   Done
-
-
-
-d.title = Machine Learning 
-d.title = Machine learning 
-d.title = machine learning 
-
-
-
-task
-
-switch to groq code 
-decorate streamlit 
-main file in your project
